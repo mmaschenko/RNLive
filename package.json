@@ -8,6 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "prop-types": "^15.6.0",
     "rn-live-stream": "0.0.1"
   },
   "devDependencies": {
